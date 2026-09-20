@@ -1,1 +1,2 @@
-cet exercice est réalisable en faisant...
+cet exercice est réalisable en tapant "history" puis on regarde le numero
+face à la commande (!numéro -> !162)
